@@ -1,0 +1,20 @@
+{
+    "name": "larakit/lk-hashids",
+    "description": "[Larakit]",
+    "version": "1.0.0",
+    "keywords": [
+        "laravel",
+        "laravel 5",
+        "larakit"
+    ],
+    "license": "MIT",
+    "require": {
+        "hashids/hashids": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
